@@ -9,7 +9,7 @@ int main() {
     task2();
     task3();
     homework();
-    return 0; // your code goes here
+    return 0;
 }
 void task1() {
     printf("123\n"); // подзадание 1
